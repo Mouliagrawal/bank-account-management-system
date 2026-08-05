@@ -11,7 +11,6 @@ It allows users to register, login, view balance, deposit, withdraw money, and s
 - Balance Enquiry  
 - Deposit & Withdraw  
 - Transaction History (with Treeview)  
-- Fund Transfer (optional)
 
 ---
 
